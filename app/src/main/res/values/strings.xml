@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment_05</string>
+    <string name="img">img</string>
+    <string name="hint">User Name</string>
+    <string name="user_name">User Name</string>
+    <string name="pass">Password</string>
+    <string name="Button_login">Login | පිවිසීම</string>
+    <string name="button_signup">Signup | ලියාපදිංචි වීම</string>
+    <string name="login_success">Login Success</string>
+    <string name="textview">Login Success</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="re_enter_password">Confirm Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>
